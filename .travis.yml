@@ -12,4 +12,4 @@ install:
 # If script returns a non-zero exit code, the build is failed,
 # but continues to run before being marked as failed.
 script:
-  - .\vendor\bin\phpunit
+  - ./vendor/bin/phpunit
